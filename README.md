@@ -48,7 +48,7 @@ Forked from [Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning](
 |macro avg|0.96|0.95|0.95|900|
 |weighted avg|1.00|1.00|1.00|900|
 
-![Signiture Confusion Matrix](https://github.com/AlexPerrin/snort3_ml/figures/sig.png)
+![Signiture Confusion Matrix](https://github.com/AlexPerrin/snort3_ml/blob/main/figures/sig.png?raw=true)
 
 ### Anomoly Detection
 
@@ -62,8 +62,10 @@ Forked from [Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning](
 |weighted avg|0.77|0.88|0.82|64|
 
 0.875
-[[ 0  8]
- [ 0 56]]
+
+[0, 8]
+
+[0, 56]
 
 ## Snort Plugin
 
