@@ -1,0 +1,3 @@
+[submodule "cicflowmeter-docker"]
+	path = cicflowmeter-docker
+	url = https://github.com/AlexPerrin/cicflowmeter-docker
